@@ -4,7 +4,7 @@
 
 💡 My passion lies in building intelligent systems that can sense, think, and act in the physical world. 🌐
 
-🛠️ I specialize in IoT communication protocols, ensuring seamless interactions between devices and the cloud. ☁️
+🛠️ I specialize in IoT communication protocols, ensuring seamless interactions between devices and the Users. ☁️
 
 💻 My programming toolkit includes:
 
@@ -26,5 +26,3 @@
 
 
 
-
-🔧 I believe in the power of open-source collaboration and knowledge sharing.  🤝
