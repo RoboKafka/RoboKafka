@@ -21,6 +21,9 @@ My programming toolkit includes:
   <a href="https://www.w3.org/html/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="RUST" width="40" height="40"/> </a>
+
+          
  
 </p>
 
