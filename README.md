@@ -6,7 +6,7 @@ My passion lies in building intelligent systems that can sense, think, and act i
 
 🛠I specialize in IoT communication protocols, ensuring seamless interactions between devices and the Users. ☁
 
-My programming toolkit includes:
+My skills include:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
