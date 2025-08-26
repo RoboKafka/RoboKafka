@@ -1,12 +1,12 @@
-👋 Hi there! I'm Rohit Avadhani
+Hi there! I'm Rohit Avadhani
 
-🚀 An aerospace engineer who made the leap into the world of robotics and automation. 🤖
+An aerospace engineer who made the leap into the world of robotics and automation.
 
-💡 My passion lies in building intelligent systems that can sense, think, and act in the physical world. 🌐
+My passion lies in building intelligent systems that can sense, think, and act in the physical world. 
 
-🛠️ I specialize in IoT communication protocols, ensuring seamless interactions between devices and the Users. ☁️
+🛠I specialize in IoT communication protocols, ensuring seamless interactions between devices and the Users. ☁
 
-💻 My programming toolkit includes:
+My programming toolkit includes:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
