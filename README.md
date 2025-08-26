@@ -4,7 +4,7 @@ An aerospace engineer who made the leap into the world of robotics and automatio
 
 My passion lies in building intelligent systems that can sense, think, and act in the physical world. 
 
-🛠I specialize in IoT communication protocols, ensuring seamless interactions between devices and the Users. ☁
+I specialize in IoT communication protocols, ensuring seamless interactions between devices and the Users.
 
 My skills include:
 
